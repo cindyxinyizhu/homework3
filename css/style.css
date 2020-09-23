@@ -90,7 +90,7 @@ table{
   color: #FFFFFF;
       /* my code */
   padding:10px;
-  min-height: 125px;
+  min-width: 125px;
   text-align:center;
   vertical-align: center;
   text-transform: uppercase;
