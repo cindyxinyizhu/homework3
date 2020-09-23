@@ -87,7 +87,7 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
       /* my code */
   padding:10px;
@@ -137,7 +137,7 @@ tbody tr:last-child td:last-child {
 } 
 
 tr:hover {
-  background-color: rgba(126,8,48,0.25);
+  background-color: rgba(126,8,32,0.25);
 }
 
 
