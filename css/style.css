@@ -41,6 +41,7 @@ body{
   /* my code */
   background-image: url("../images/pigeon-background.JPEG");
   background-color: #DDDDDD;
+  background-repeat: no-repeat;
 }
 
 main{
