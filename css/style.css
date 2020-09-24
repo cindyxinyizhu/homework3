@@ -107,11 +107,7 @@ th{
   vertical-align: middle;
 }
 
-tbody tr:hover td{
-  background-color: rgba(126,8,32,0.25);
-}
-
-tbody tr:hover th{
+tbody tr:hover {
   background-color: rgba(126,8,32,0.25);
 }
 
