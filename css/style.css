@@ -107,11 +107,6 @@ th{
   vertical-align: middle;
 }
 
-tbody tr:hover {
-  background-color: rgba(126,8,32,0.25);
-}
-
-
 /* my code */
 tbody tr:nth-child(even) {background-color: #D1D1D1}
 
@@ -131,6 +126,11 @@ tbody tr:last-child th:first-child {
 tbody tr:last-child td:last-child {
   border-bottom-right-radius: 10px;
 } 
+
+
+tbody tr:hover {
+  background-color: rgba(126,8,32,0.25);
+}
 
 
 footer{
